@@ -24,4 +24,7 @@ http://marathon.csee.usf.edu/Mammography/Database.html
 3.	OpenCV Documentation. Available at: http://docs.opencv.org/
 4.	Fuzzy c-means clustering. Available at: https://github.com/shingt/FuzzyCMeans
 5.	Active Contour Model based on GVF. Available at: https://github.com/HiDiYANG/ActiveContour
+6.	University of South Florida Digital Mammography Home Page. Available at: http://marathon.csee.usf.edu/Mammography/Database.html 
+7.	LJPEG to PNG Utility. Available at: http://stackoverflow.com/questions/13365587/getting-data-from-digital-database-for-screening-mammography-ddsm 
+
 
