@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/d">
+        <file>dark/alignment-align.svg</file>
+        <file>dark/eye.svg</file>
+    </qresource>
+</RCC>
