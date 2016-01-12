@@ -9,7 +9,13 @@ Qt 5.5 (Visual Studio 2013) + OpenCV 3.0
 
 http://marathon.csee.usf.edu/Mammography/Database.html
 
-No. C_0013_1.RIGHT_MLO, B_3084_1.RIGHT_MLO, B_3071_1.LEFT_MLO, B_3021_1.LEFT_MLO, B_3017_1.LEFT_MLO, B_3010_1.RIGHT_MLO
+1. C_0013_1.RIGHT_MLO
+2. B_3084_1.RIGHT_MLO
+3. B_3010_1.RIGHT_MLO
+4. B_3071_1.LEFT_MLO
+5. B_3021_1.LEFT_MLO
+6. B_3017_1.LEFT_MLO
+
 
 ## Reference
 
